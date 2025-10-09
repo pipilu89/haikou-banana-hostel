@@ -5,6 +5,16 @@ nav_order: 2
 meta_description: Haikou Banana Hostel has different room types and prices to suit your budget.
 ---
 
+| Room Type | Daily Rate | Monthly rate |
+| :------- | :------: | -------: |
+| Dorm Bed | 45   | 900    |
+| Single Room (1 single bed)  | 98  | 1600  |
+| Mini Double Room (1 big bed)  | 108  | 1800  |
+| Double Room (1 big bed)  | 128  | 2000  |
+| Twin Room (2 single beds)  | 128  | 2000  |
+| 4 person room (2 bunk beds)  | 168  | 2200  |
+
+All prices in Chinese renminbi rmb (CNY).
 
 <dl class="row mt-5">
   <dt class="col-sm-3">Single room - 1 single bed, 98rmb.</dt>
@@ -23,7 +33,7 @@ meta_description: Haikou Banana Hostel has different room types and prices to su
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1737014409/hostel-rooms/102-room_kfgw4e.jpg" alt="large double room" class="figure-img img-fluid rounded float-left">
   </dd>
-  <dt class="col-sm-3">Twin room - 2 single beds, 120rmb.</dt>
+  <dt class="col-sm-3">Twin room - 2 single beds, 128rmb.</dt>
   <dd class="col-sm-9">
     <img src="https://res.cloudinary.com/dfjb9p5ri/image/upload/h_300/v1616906845/hostel-rooms/twin_room_kpnl6m.jpg" alt="single room" class="figure-img img-fluid rounded float-left">
   </dd>
@@ -33,7 +43,6 @@ meta_description: Haikou Banana Hostel has different room types and prices to su
   </dd>
 </dl>
 
-
 All of Haikou Banana Hostel's rooms include：
 
 - Private sink, toilet & shower
@@ -42,7 +51,13 @@ All of Haikou Banana Hostel's rooms include：
 - Flat screen TV (not including Dorm)
 - Window
 - 24 hour hot water.
+  
+## Monthly Rental
+We have very affordable rates for monthly rentals. Price includes water, wifi, and cleaning once a week. Electricity is charged at 1 rmb per Kwh.
+Dorm bed price includes electricity!
+There is a 200rmb deposit for private rooms (no deposit for dorm bed).
 
+## Holidays
 During some Chinese national holidays prices may be increased.
 
 Chinese New Year: Exact date changes every year because its based on the Lunar Calendar. Usually in January or February.
