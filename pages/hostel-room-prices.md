@@ -6,13 +6,14 @@ meta_description: Haikou Banana Hostel has different room types and prices to su
 ---
 
 | Room Type | Daily Rate | Monthly rate |
-| :------- | :------: | -------: |
+| :------- | :------: | :------: |
 | Dorm Bed | 45   | 900    |
 | Single Room (1 single bed)  | 98  | 1600  |
 | Mini Double Room (1 big bed)  | 108  | 1800  |
 | Double Room (1 big bed)  | 128  | 2000  |
 | Twin Room (2 single beds)  | 128  | 2000  |
 | 4 person room (2 bunk beds)  | 168  | 2200  |
+
 
 All prices in Chinese renminbi rmb (CNY).
 
