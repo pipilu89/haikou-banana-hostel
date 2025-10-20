@@ -196,6 +196,10 @@ meta_description: Guide to Haikou City. Learn about Haikou, the tropical capital
                 <div class="tab-content" id="v-pills-tabContent">
                         <div class="tab-pane fade show active" id="v-pills-intro">
                                 <h4>Haikou Introduction</h4>
+                                <p>Get digital copy of our Haikou map:
+                                - <a target="_blank" href="/assets/pdf/Haikou-map.pdf">Haikou-map.pdf</a>
+                                </p>
+                                
                                 <p>Haikou is a fairly large tropical city and the capital of Hainan. It
                                         is the business
                                         and transport centre of the island and a major port. It is a relaxed
