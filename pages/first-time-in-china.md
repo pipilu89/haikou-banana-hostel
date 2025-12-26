@@ -26,17 +26,17 @@ Get Alipay and WeChat set up before you come to China. You can link your bank ca
 
 Alipay and Wechat are "super apps" and have many mini-apps embedded within them. This is good because you dont have to download and create accounts for many different seperate apps.
 For example:
-- you can book online taxis within Alipay (using DiDi or Amap Taxi mini apps).
-- We can rent public shared bicycles (HelloRide in Alipay).
-- Order take out (Ele.me in Alipay)
-- Translate Chinese <-> English (Search for "translate" in Alipay)
-- Alipay has a built in screen translator
-- Book train tickets (search for 12306 in Alipay)
-- Pay for local buses
+- You can book online taxis within Alipay (using DiDi or Amap Taxi mini apps).
+- You can rent public shared bicycles (HelloRide in Alipay).
+- Order take out (Ele.me in Alipay).
+- Translate Chinese <-> English (Search for "translate" in Alipay).
+- Alipay has a built in screen translator.
+- Book train tickets (search for 12306 in Alipay).
+- Pay for local buses.
 
 Note: Some mini apps may require a local phone number.
 
-Alipay is generally more foreigner friendly than Wechat for payments. But Wechat is the main app for communication. Wechat is very useful to have so you can communicate with your hotel or local people you may meet. Wechat can translate chat conversations.
+Alipay has an international version and is generally more foreigner friendly than Wechat for payments. But Wechat is the main app for communication. Wechat is very useful to have so you can communicate with your hotel or local people you may meet. Wechat can translate chat conversations.
 
 
 ## Mobile Data
@@ -54,5 +54,5 @@ https://www.12306.cn/en/index.html
 ## Maps
 Amap is the best Chinese map on android. It can be opened from within Trip.com. Use with a screen translator to learn how it works. Amap is good for local bus/metro in big cities (Think of it as the google maps for China). Apple maps generally works within China.
 
-Before you arrive in china you can download offline google maps (or Open Street Maps) of places you will visit. You can then use your phones GPS with your offline maps even if you have no mobile data/internet connection. You can use the offline maps for basic navigation.
+Before you arrive in China you can download offline google maps (or Open Street Maps) of places you will visit. You can then use your phones GPS with your offline maps even if you have no mobile data/internet connection. You can use the offline maps for basic navigation.
 
