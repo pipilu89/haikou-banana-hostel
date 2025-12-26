@@ -1,6 +1,8 @@
 <footer class="mt-auto border-top bg-light">
     <div class="container my-4">
         <p><a href="{{ '/' | relative_url }}">{{ site.title }}</a> | {{ site.description }}, {{ site.author }} {{
-            site.year }}</p>
+            <!-- site.year }}</p> -->
+            site.time | date: "%Y" }}
+        </p>
     </div>
 </footer>
