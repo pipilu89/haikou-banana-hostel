@@ -16,6 +16,8 @@ layout: page-full-width
 
 {% include card.html text="Book a room directly with us and pay no booking fees!" header="Book a Room" btn-text="Learn More" btn-link="book.html" %}
 
+{% include card.html text="Important info about mobile apps and payments in Hainan" header="First Time to China?" btn-text="Learn More" btn-link="first-time-in-china.html" %}
+
 </div>
 
 ## Hainan Travel Guides
