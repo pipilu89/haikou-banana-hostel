@@ -22,7 +22,7 @@ Most people including taxi drivers will not speak English, so it is best to use 
 
 
 ## Alipay and WeChat
-Get Alipay and WeChat set up before you come to China. You can link your bank card to them and use them to make payments. China is largley cashless, everyone uses Wechat or Alipay to pay for things using a QR code. It is generally possible to still use cash but vendors may not have change. Using Wechat or Alipay will be much more convenient for you. 
+Get Alipay and WeChat set up before you come to China. You can link your bank card to them and use them to make payments. China is largely cashless, everyone uses Wechat or Alipay to pay for things using a QR code. It is generally possible to still use cash but vendors may not have change. Using Wechat or Alipay will be much more convenient for you. 
 
 Alipay and Wechat are "super apps" and have many mini-apps embedded within them. This is good because you dont have to download and create accounts for many different seperate apps.
 For example:
@@ -47,7 +47,7 @@ eSIM - set up an eSim data package on your phone before you get to China and you
 Trip.com app is good for booking hotels, attractions, train tickets and flights.
 It has a larger selection of accommodations than booking. When you book a hotel check the details that the hotel accepts foreigners because some hotels still have trouble accepting foreigners.
 
-You can also book train tickets on the offical government train ticket website:
+You can also book train tickets on the official government train ticket website:
 https://www.12306.cn/en/index.html
 
 
