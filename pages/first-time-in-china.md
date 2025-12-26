@@ -3,8 +3,6 @@ title: What to prepare for your trip to China/Hainan
 meta_description: This is a guide to help you prepare your digital life before your visit to Hainan.
 ---
 
-# What to prepare for your trip to China/Hainan
-
 This is a guide to help you prepare your digital life before your visit to Hainan. This info also applies to China in general.
 
 All of China except Hong Kong has restricted internet access, so many western apps dont work in China. 
@@ -13,9 +11,10 @@ For example the following apps wont work:
 - WhatsApp
 - Facebook
 - Uber
+
 Google Search, Chrome and Gmail dont work in China but Microsoft Bing, Edge, and Outlook email do. So consider a Outlook email account for communication in case you only have restricted internet access.
 
-China has a different ecosystem of apps (Alipay, Wechat, Amap etc).
+China has a different ecosystem of apps (Alipay, Wechat, Amap etc). You should prepare these apps before getting to Hainan/China.
 
 Bank cards are not widely accepted outside of 5 star hotels. Use Alipay or Wechat instead. Use cash if you cant setup these apps.
 
